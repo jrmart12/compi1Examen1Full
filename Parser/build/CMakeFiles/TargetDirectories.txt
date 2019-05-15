@@ -1,0 +1,4 @@
+/home/jose/Documents/Compiladores1_2019/examen1compi1/Parser/build/CMakeFiles/rebuild_cache.dir
+/home/jose/Documents/Compiladores1_2019/examen1compi1/Parser/build/CMakeFiles/edit_cache.dir
+/home/jose/Documents/Compiladores1_2019/examen1compi1/Parser/build/CMakeFiles/test_parser.dir
+/home/jose/Documents/Compiladores1_2019/examen1compi1/Parser/build/CMakeFiles/test.dir
